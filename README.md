@@ -1,4 +1,4 @@
-yagni
-=====
+yagni-edge
+==========
 
-YAGNI M2M Platform
+YAGNI Edge Controller
